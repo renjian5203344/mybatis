@@ -1,0 +1,9 @@
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/mapper/UserMapper.java
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/utils/JDBCUtils.java
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/utils/SQLUtils.java
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/annotation/YzParam.java
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/Application.java
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/annotation/YzQurey.java
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/sqlsession/YzsqlSession.java
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/entity/User.java
+/Users/newsan/workspace/test/mybatis/src/main/java/com/yizhan/sqlsession/UserMapperInvocationHandler.java
